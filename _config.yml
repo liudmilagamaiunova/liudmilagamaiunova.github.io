@@ -23,7 +23,7 @@ repository               : "liudmilagamaiunova/liudmilagamaiunova.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_4886.jpeg"
+  avatar           : "apple-touch-icon-180x180.png"
   name             : "Liudmila Gamaiunova"
   bio              : "Psychology of Religion"
   location         : "Oxford, UK"
